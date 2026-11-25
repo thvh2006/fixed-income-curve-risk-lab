@@ -29,8 +29,8 @@
     },
     {
       "path": "LICENSE",
-      "sha256": "809ffe8fa2215313e81846cfbf4849f521d4e838d3c9b4c6477fd63bd4fe9943",
-      "size": 1240
+      "sha256": "2ea818501652b95550d5053d329e9a977b5a635e30fb07775220dc57f5e1ee09",
+      "size": 1228
     },
     {
       "path": "README.md",
@@ -124,8 +124,8 @@
     },
     {
       "path": "dashboard/template.html",
-      "sha256": "c349bb94f9884029537b49a72e9da46e7e9e06c6da673210809ddb71954814c3",
-      "size": 1629
+      "sha256": "8525cf1dff76b85449d5202fca72772def9c4cba201bb312d5d7bce0f0c8c566",
+      "size": 1617
     },
     {
       "path": "data/contracts/treasury_par.json",
@@ -154,18 +154,18 @@
     },
     {
       "path": "deliverables/P4_Method_Note.pdf",
-      "sha256": "2dfa4636d1aae45f7c5fdfac45370eb210a72093570805b0cfa40c47cb1a1c3e",
-      "size": 85539
+      "sha256": "6e248deb6c1f63256c65ed32c441fcaf7832bdb3f0d71c0a6a141a6419525c74",
+      "size": 84520
     },
     {
       "path": "deliverables/P4_Research_Report.docx",
-      "sha256": "aca939ccd54c66bdbd529ccb1df34c3160c392aba0f1ad73b6f50c4d11cc3f99",
-      "size": 331727
+      "sha256": "6a4237c0895f25945cb683cda86bc7a634fd5b57267190f74073fce8e8982159",
+      "size": 331698
     },
     {
       "path": "deliverables/P4_Research_Report.pdf",
-      "sha256": "7164dca83e8353edbb3b08cb8e12f3a8d59f7765de1dbb216443d0d27f1db1e7",
-      "size": 115631
+      "sha256": "56d92bc70e45a10a08d3bcbbdc5bdac12d127d988464e2561b07774051ae704f",
+      "size": 108190
     },
     {
       "path": "docs/RELEASE_NOTES.md",
@@ -199,8 +199,8 @@
     },
     {
       "path": "index.html",
-      "sha256": "e578c3bcfa983b8df1a1ad58c404438be20d49fdb5eaf6678083350bde4cbffa",
-      "size": 968168
+      "sha256": "5f50c545f8a60f87c699b5a0cd69d82a7e8bc45efeaa05733946297e3043e170",
+      "size": 968156
     },
     {
       "path": "notebooks/01_curve_data_and_conventions.ipynb",
@@ -249,8 +249,8 @@
     },
     {
       "path": "reports/report_outline.md",
-      "sha256": "22f5ffc14bd427457df0c70c4a2c6c4279ace9ade1aeabf4319730b9f4879ef8",
-      "size": 25301
+      "sha256": "5b2d78206b8b425fa2040c1c7524fdbecbf0422f5f3a90cb96de04c5c072bdd2",
+      "size": 25289
     },
     {
       "path": "requirements-core.txt",
@@ -284,8 +284,8 @@
     },
     {
       "path": "scripts/build_report.py",
-      "sha256": "7325fcb68db7976e3dbbb048de2fec9d185ba0739957fc1827890f655c73f29d",
-      "size": 33142
+      "sha256": "5f9df69b1c5c17109ae22c0ba6191e85715da5e496d104f03c78118b6f64e434",
+      "size": 33106
     },
     {
       "path": "scripts/build_workbook.mjs",
