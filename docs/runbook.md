@@ -13,7 +13,7 @@ python -m unittest discover -s tests -p test_operations.py -v
 
 For a reproducible local simulation, pass `--year 2025 --csv data/raw/treasury_par_2025.csv --directory outputs/market-test`. This is a simulated receipt from the supplied source bytes, not a new live fetch. Never copy a simulated receipt over a deployed current-market receipt without labelling the source clock.
 
-The workflow commits market/health receipts separately and does not rebuild research. With branch-based GitHub Pages, ordinary GitHub Actions bot pushes may not trigger a Pages build. The page fetches the receipt from the raw `main` branch so users can read the latest receipt independently of a static deployment. On a network/CORS failure, it explicitly retains the frozen study and shows that current receipt retrieval is unavailable.
+The workflow commits market/health receipts separately and does not rebuild research. With branch-based GitHub Pages, ordinary GitHub Actions bot pushes may not trigger a Pages build. The page fetches the receipt from the raw `main` branch so users can read the latest receipt independently of a static deployment. A minute-based query key avoids a previously cached placeholder at the raw-file CDN. On a network/CORS failure, it explicitly retains the frozen study and shows that current receipt retrieval is unavailable.
 
 ## Incident response
 
