@@ -29,8 +29,8 @@
     },
     {
       "path": "LICENSE",
-      "sha256": "809ffe8fa2215313e81846cfbf4849f521d4e838d3c9b4c6477fd63bd4fe9943",
-      "size": 1240
+      "sha256": "2ea818501652b95550d5053d329e9a977b5a635e30fb07775220dc57f5e1ee09",
+      "size": 1228
     },
     {
       "path": "README.md",
@@ -124,8 +124,8 @@
     },
     {
       "path": "dashboard/template.html",
-      "sha256": "c349bb94f9884029537b49a72e9da46e7e9e06c6da673210809ddb71954814c3",
-      "size": 1629
+      "sha256": "8525cf1dff76b85449d5202fca72772def9c4cba201bb312d5d7bce0f0c8c566",
+      "size": 1617
     },
     {
       "path": "data/contracts/treasury_par.json",
@@ -154,18 +154,18 @@
     },
     {
       "path": "deliverables/P4_Method_Note.pdf",
-      "sha256": "3815c9b4f81703faf71da5a0583e47fc45d9260465966580b8022553935d05ff",
-      "size": 85539
+      "sha256": "b01db5a32da003062709177693f6b5d54b0895123fa7bc62a9535188309fbd5a",
+      "size": 84520
     },
     {
       "path": "deliverables/P4_Research_Report.docx",
-      "sha256": "52b13f48e824d22a86883dbc8c7c316cbb9dded79ded92cab49b40faaad7bfb7",
-      "size": 375394
+      "sha256": "4cf7fbac3d7fdca3bb1045997b9438ec69f05c6e7a513be9b6e30d621207e294",
+      "size": 375365
     },
     {
       "path": "deliverables/P4_Research_Report.pdf",
-      "sha256": "0a734973416459fd5a35f90d6d564cc6f6117c92014915e99552bfa664aaae98",
-      "size": 115765
+      "sha256": "881872c801c9258de146685c0b2be529e028ce11f7e2543d070bd196b4644e0c",
+      "size": 108323
     },
     {
       "path": "docs/RELEASE_NOTES.md",
@@ -199,8 +199,8 @@
     },
     {
       "path": "index.html",
-      "sha256": "f090f8ee83b46d75b8ddfb2044010eba58759bccdaba25795ac645c7682de6d0",
-      "size": 968602
+      "sha256": "a9d957d0c4232136b86a44a3d062bdbed4d95e5517c4db6246a5cd4df66f18cc",
+      "size": 968590
     },
     {
       "path": "notebooks/01_curve_data_and_conventions.ipynb",
@@ -284,8 +284,8 @@
     },
     {
       "path": "scripts/build_report.py",
-      "sha256": "7325fcb68db7976e3dbbb048de2fec9d185ba0739957fc1827890f655c73f29d",
-      "size": 33142
+      "sha256": "5f9df69b1c5c17109ae22c0ba6191e85715da5e496d104f03c78118b6f64e434",
+      "size": 33106
     },
     {
       "path": "scripts/build_workbook.mjs",
