@@ -1,6 +1,6 @@
 # Fixed Income Curve and Risk Lab
 
-thvh2006<br/>Research release 1.0.0 | 25 November 2026<br/>Frozen observations: 2 January 2024 to 31 December 2025
+<br/>Research release 1.0.0 | 25 November 2026<br/>Frozen observations: 2 January 2024 to 31 December 2025
 
 <b>Abstract.</b> This study examines how transparent curve construction translates published Treasury par yields into hypothetical cash-bond valuation, key-rate exposures and hedging decisions. The evidence comprises 499 daily curves, an educational semiannual bootstrap, two interpolation methods, a Nelson-Siegel challenger, dated cash flows, equal-capital portfolios and an ordered return bridge. A retrospective five-observation forecast comparison evaluates no-change, train-only PCA/AR and ridge-change specifications on 49 non-overlapping target windows in 2025. All model and allocation candidates are retained.
 
