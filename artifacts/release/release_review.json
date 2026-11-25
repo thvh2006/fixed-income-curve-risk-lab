@@ -24,7 +24,9 @@
     "console_errors": 0,
     "export_download_verified": true,
     "mobile_viewport_width": 390,
-    "mobile_document_width": 390
+    "mobile_document_width": 390,
+    "live_console_errors": 0,
+    "live_price_verified": 101.215533
   },
   "documents": {
     "paper_pages": 12,
@@ -37,6 +39,20 @@
   },
   "publication": {
     "repository": "https://github.com/thvh2006/fixed-income-curve-risk-lab",
-    "deployment_status": "Pending push and Pages verification"
-  }
+    "deployment_status": "Verified live",
+    "reviewed_source_commit": "e2136c67c5e6cf0a01fdc1435c72a9154f7657b1",
+    "live_url": "https://thvh2006.github.io/fixed-income-curve-risk-lab/",
+    "ci_run": "https://github.com/thvh2006/fixed-income-curve-risk-lab/actions/runs/45632702252",
+    "ci_status": "success",
+    "pages_run": "https://github.com/thvh2006/fixed-income-curve-risk-lab/actions/runs/45632703991",
+    "pages_status": "success",
+    "market_refresh_run": "https://github.com/thvh2006/fixed-income-curve-risk-lab/actions/runs/45631529733",
+    "market_refresh_status": "success",
+    "latest_market_as_of": "2026-11-24",
+    "live_market_receipt_verified": true,
+    "notebook_png_preview_verified": true,
+    "live_downloads_sha256_verified": true,
+    "release_tag": "v1.0.0"
+  },
+  "regeneration_checks_with_manifest": 6060
 }
