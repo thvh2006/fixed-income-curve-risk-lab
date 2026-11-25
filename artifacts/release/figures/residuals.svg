@@ -10,6 +10,7 @@
 	</clipPath>
 	<g id="group" transform="scale(1,-1) translate(0,-286)" style="clip-path: url(#clip)">
 		<g transform="">
+			<rect x="0" y="0" width="470" height="286" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
 			<text x="0" y="267" style="font-family: TNR-Bold; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,534) scale(1,-1)">Par calibration residuals (basis points)</text>
 			<path d="M 60,96 L 460,96 Z" style="stroke: rgb(85%,89%,88%); stroke-linecap: butt; stroke-width: 0.5;"/>
 			<text x="0" y="92.0" style="font-family: TNR; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,184) scale(1,-1)">-8.57</text>

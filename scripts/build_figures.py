@@ -13,7 +13,9 @@ for n,f in [('TNR','Times New Roman.ttf'),('TNR-Bold','Times New Roman Bold.ttf'
 pdfmetrics.registerFontFamily('TNR',normal='TNR',bold='TNR-Bold',italic='TNR-Italic',boldItalic='TNR-Bold')
 COLORS=['#28686e','#aa764f','#65738c','#7f667d']
 def figure(title,series,unit='',x_title='Tenor (years)'):
-    d=Drawing(470,286);xs=[p[0] for _,s in series for p in s];ys=[p[1] for _,s in series for p in s]
+    d=Drawing(470,286)
+    d.add(Rect(0,0,470,286,fillColor=HexColor('#ffffff'),strokeColor=None))
+    xs=[p[0] for _,s in series for p in s];ys=[p[1] for _,s in series for p in s]
     lo=min(ys);hi=max(ys);pad=(hi-lo)*.1 or .1;lo-=pad;hi+=pad;a=min(xs);b=max(xs)
     sx=lambda x:60+(x-a)/(b-a or 1)*400;sy=lambda y:96+(y-lo)/(hi-lo)*145
     d.add(String(0,267,title,fontName='TNR-Bold',fontSize=12))

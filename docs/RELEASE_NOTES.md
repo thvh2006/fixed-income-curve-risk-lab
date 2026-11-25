@@ -7,3 +7,7 @@ Delivered review surfaces: eight executed notebooks, a 15-sheet formula-driven E
 Research is frozen through 31 December 2025. Market receipts refresh separately. Actual CUSIP quotes, legal holiday payment adjustments, odd stubs, credit/liquidity/default models, futures CTD and prospective performance remain outside this release. These are scope limits, not implemented features.
 
 Validation comprises mathematical and temporal unit tests, historical curve/price/risk/ledger regeneration, independent Excel and JavaScript cases, native spreadsheet recalculation, document/layout inspection and release-file digests. Deployed CI and browser checks are recorded in the release review receipt after publication.
+
+## Display correction — 25 November 2026
+
+The README Bond pricer entry now links directly to its dashboard tab. All eight views support stable URL fragments. Six research figures have an explicit opaque white background for dark-mode readability, including embedded notebook and report figures. Research values and conventions are unchanged.

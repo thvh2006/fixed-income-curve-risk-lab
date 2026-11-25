@@ -25,7 +25,7 @@ This laboratory asks how curve construction and key-rate exposure change a bond 
 | Reader task | Open | What to change or inspect |
 | --- | --- | --- |
 | Understand the decision | [Dashboard](https://thvh2006.github.io/fixed-income-curve-risk-lab/) | Curve observatory, then Stress and hedge |
-| Challenge a price | Bond pricer view | Coupon, settlement, maturity, parallel zero shock; inspect every discounted cash flow |
+| Challenge a price | [Bond pricer view](https://thvh2006.github.io/fixed-income-curve-risk-lab/#bond-pricer) | Coupon, settlement, maturity, parallel zero shock; inspect every discounted cash flow |
 | Audit independent formulas | [Workbook](deliverables/P4_Curve_Risk_Workbook.xlsx) | Inputs → Bond Schedule → Price and Risk → Key Rate Risk; native sensitivity on Inputs |
 | Review mathematics | [Notebook 02](notebooks/02_bond_cashflows_and_pricing.ipynb), [04](notebooks/04_duration_convexity_keyrates.ipynb) | Par/zero analytical cases, accrued dates, yield round trip and finite differences |
 | Review negative evidence | [Notebook 07](notebooks/07_curve_factor_forecasting.ipynb) | All candidates, train-only fits, baseline, model-implied decision value |
