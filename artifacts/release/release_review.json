@@ -1,0 +1,42 @@
+{
+  "reviewed_at": "2026-11-25T14:06:32.614995+00:00",
+  "version": "1.0.0",
+  "run_id": "p4-662f58a64e8e",
+  "core_unit_tests": 27,
+  "regeneration_checks_before_manifest": 5986,
+  "notebooks": 8,
+  "executed_code_cells": 32,
+  "workbook_sheets": 15,
+  "independent_excel_comparisons": 42,
+  "native_recalculation": {
+    "engine": "Bundled LibreOffice",
+    "formula_errors": 0,
+    "sensitivity_base": 101.215532602297,
+    "Microsoft_Excel_GUI": false
+  },
+  "browser": {
+    "surface": "Chrome",
+    "views_verified": 8,
+    "default_price": 101.215533,
+    "changed_coupon6_shock100_price": 105.521942,
+    "blank_guard": true,
+    "reset": true,
+    "console_errors": 0,
+    "export_download_verified": true,
+    "mobile_viewport_width": 390,
+    "mobile_document_width": 390
+  },
+  "documents": {
+    "paper_pages": 12,
+    "method_pages": 2,
+    "word_render_pages": 13,
+    "font": "Times New Roman",
+    "point_size": 12,
+    "body_line_spacing": 1.5,
+    "rendered_and_visual_reviewed": true
+  },
+  "publication": {
+    "repository": "https://github.com/thvh2006/fixed-income-curve-risk-lab",
+    "deployment_status": "Pending push and Pages verification"
+  }
+}

@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fixed-income-curve-risk-lab"
+version = "1.0.0"
+description = "Treasury par-curve semantics, hypothetical bond pricing and key-rate risk"
+requires-python = ">=3.11"
+dependencies = ["numpy>=1.26,<3"]
+
+[project.scripts]
+curve-lab = "curve_lab.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,15 @@
+{
+  "source_kind": "Official US Treasury daily par/CMT rates",
+  "raw_unit": "Annual percentage points",
+  "engine_unit": "Annual decimal rate",
+  "date_field": "Date",
+  "date_format": "%m/%d/%Y",
+  "core_fields": ["6 Mo","1 Yr","2 Yr","3 Yr","5 Yr","7 Yr","10 Yr","20 Yr","30 Yr"],
+  "core_tenors_years": [0.5,1,2,3,5,7,10,20,30],
+  "missing_policy": "Reject missing or nonfinite core values; never fill with zero",
+  "duplicate_policy": "Reject duplicate dates",
+  "availability": "Usually by 18:00 America/New_York, delays possible; no historical vintage certification",
+  "semantics": "Par yields are not zero rates, actual CUSIP prices or a total-return index",
+  "short_series": "Original fields retained in raw files; unused short tenors not imputed",
+  "rights": "US federal government rate facts with attribution; no source graphics or seals redistributed"
+}

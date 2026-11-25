@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "source_years": [2024, 2025],
+  "core_tenors_years": [0.5, 1, 2, 3, 5, 7, 10, 20, 30],
+  "study_date": "2026-11-25",
+  "settlement": "2025-12-31",
+  "base_coupon": 0.04,
+  "face": 100,
+  "frequency": 2,
+  "curve_method": "log_linear",
+  "key_tenors_years": [0.5, 2, 5, 10, 20, 30],
+  "bump_bp": 1,
+  "capital": 1000000,
+  "forecast": {"horizon_observations":5,"pca_factors":3,"ridge_alpha":100,"lags":3,"evaluation_year":2025},
+  "conventions": {"coupon_accrual":"Actual/Actual ICMA regular periods", "curve_time":"Actual/365 Fixed", "payment_adjustment":"Unadjusted hypothetical schedule", "settlement_cashflows":"Excluded; measured after same-date payment", "odd_stubs":"Unsupported and not represented as Treasury-compliant", "reinvestment":"Coupon cash earns zero"}
+}

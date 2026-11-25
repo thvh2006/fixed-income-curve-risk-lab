@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="470" height="286" preserveAspectRatio="xMinYMin meet" viewBox="0 0 470 286" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="470" height="286"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-286)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="267" style="font-family: TNR-Bold; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,534) scale(1,-1)">Par, zero and forward curves, 31 December 2025</text>
+			<path d="M 60,96 L 460,96 Z" style="stroke: rgb(85%,89%,88%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="0" y="92.0" style="font-family: TNR; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,184) scale(1,-1)">2.99%</text>
+			<path d="M 60,132.25 L 460,132.25 Z" style="stroke: rgb(85%,89%,88%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="0" y="128.25" style="font-family: TNR; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,256) scale(1,-1)">4.04%</text>
+			<path d="M 60,168.5 L 460,168.5 Z" style="stroke: rgb(85%,89%,88%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="0" y="164.5" style="font-family: TNR; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,329) scale(1,-1)">5.09%</text>
+			<path d="M 60,204.75 L 460,204.75 Z" style="stroke: rgb(85%,89%,88%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="0" y="200.75" style="font-family: TNR; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,401) scale(1,-1)">6.13%</text>
+			<path d="M 60,241 L 460,241 Z" style="stroke: rgb(85%,89%,88%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="0" y="237.0" style="font-family: TNR; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,474) scale(1,-1)">7.18%</text>
+			<polyline points="60 116.731, 66.77966 112.9245, 80.33898 112.5784, 93.89831 115.3468, 121.0169 121.5756, 148.1356 128.8425, 188.8136 137.1476, 324.4068 158.2564, 460 159.9866" style="stroke: rgb(15%,40%,43%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd;"/>
+			<path d="M 0,55 L 20,55 Z" style="stroke: rgb(15%,40%,43%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<text x="27" y="52" style="font-family: TNR; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,104) scale(1,-1)">Observed par</text>
+			<polyline points="60 115.6292, 66.77966 111.8563, 73.55932 111.6941, 80.33898 111.5257, 87.11864 112.9391, 93.89831 114.3564, 100.678 115.96, 107.4576 117.5725, 114.2373 119.1955, 121.0169 120.83, 127.7966 122.7585, 134.5763 124.7023, 141.3559 126.6626, 148.1356 128.6408, 154.9153 130.1438, 161.6949 131.663, 168.4746 133.1988, 175.2542 134.7518, 182.0339 136.3225, 188.8136 137.9117, 195.5932 139.1119, 202.3729 140.3282, 209.1525 141.5608, 215.9322 142.8101, 222.7119 144.0767, 229.4915 145.3608, 236.2712 146.6633, 243.0508 147.9846, 249.8305 149.3255, 256.6102 150.6867, 263.3898 152.0691, 270.1695 153.4736, 276.9492 154.9011, 283.7288 156.3527, 290.5085 157.8294, 297.2881 159.3325, 304.0678 160.8633, 310.8475 162.4232, 317.6271 164.0136, 324.4068 165.6362, 331.1864 165.5622, 337.9661 165.4995, 344.7458 165.4474, 351.5254 165.4054, 358.3051 165.373, 365.0847 165.3496, 371.8644 165.3349, 378.6441 165.3284, 385.4237 165.3298, 392.2034 165.3388, 398.9831 165.3551, 405.7627 165.3784, 412.5424 165.4085, 419.322 165.4452, 426.1017 165.4883, 432.8814 165.5376, 439.661 165.593, 446.4407 165.6543, 453.2203 165.7214, 460 165.7941" style="stroke: rgb(66%,46%,30%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd;"/>
+			<path d="M 240,55 L 260,55 Z" style="stroke: rgb(66%,46%,30%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<text x="267" y="52" style="font-family: TNR; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,104) scale(1,-1)">Model zero, continuous</text>
+			<polyline points="60 115.6292, 66.77966 108.0833, 73.55932 111.3698, 80.33898 111.0206, 87.11864 118.5928, 93.89831 121.443, 100.678 125.5812, 107.4576 128.8604, 114.2373 132.1793, 121.0169 135.5404, 127.7966 142.044, 134.5763 146.0838, 141.3559 150.1865, 148.1356 154.3564, 154.9153 151.1868, 161.6949 154.4511, 168.4746 157.7716, 175.2542 161.1519, 182.0339 164.5955, 188.8136 168.1065, 195.5932 163.1157, 202.3729 165.8698, 209.1525 168.6786, 215.9322 171.5452, 222.7119 174.473, 229.4915 177.4655, 236.2712 180.5265, 243.0508 183.66, 249.8305 186.8705, 256.6102 190.1626, 263.3898 193.5413, 270.1695 197.0122, 276.9492 200.581, 283.7288 204.2543, 290.5085 208.0388, 297.2881 211.942, 304.0678 215.9722, 310.8475 220.1381, 317.6271 224.4494, 324.4068 228.9167, 331.1864 162.603, 337.9661 162.9288, 344.7458 163.2609, 351.5254 163.5996, 358.3051 163.945, 365.0847 164.2972, 371.8644 164.6566, 378.6441 165.0233, 385.4237 165.3976, 392.2034 165.7797, 398.9831 166.1698, 405.7627 166.5681, 412.5424 166.975, 419.322 167.3908, 426.1017 167.8156, 432.8814 168.2497, 439.661 168.6936, 446.4407 169.1474, 453.2203 169.6115, 460 170.0863" style="stroke: rgb(39%,45%,54%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd;"/>
+			<path d="M 0,36 L 20,36 Z" style="stroke: rgb(39%,45%,54%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<text x="27" y="33" style="font-family: TNR; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,66) scale(1,-1)">Model forward, continuous</text>
+			<text x="60" y="76" style="font-family: TNR; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,152) scale(1,-1)">0.5</text>
+			<text x="431" y="76" style="font-family: TNR; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,152) scale(1,-1)">30</text>
+			<text x="185" y="76" style="font-family: TNR; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,152) scale(1,-1)">Tenor (years)</text>
+		</g>
+	</g>
+</svg>

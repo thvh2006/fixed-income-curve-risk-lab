@@ -1,0 +1,6 @@
+index.html linguist-generated=true
+artifacts/** linguist-generated=true
+notebooks/** linguist-documentation=true
+deliverables/** linguist-generated=true
+data/raw/** linguist-vendored=true
+reports/report_outline.md linguist-generated=true

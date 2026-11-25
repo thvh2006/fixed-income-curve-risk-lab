@@ -1,0 +1,19 @@
+{
+  "retrieved_at": "2026-11-25T13:59:20.913110+00:00",
+  "files": [
+    {
+      "path": "data/raw/treasury_par_2024.csv",
+      "sha256": "6775840b76cd7fd41121f61d6f6c60184eca6b2ba49954ec7372c463cbeef34d",
+      "year": 2024,
+      "source": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2024"
+    },
+    {
+      "path": "data/raw/treasury_par_2025.csv",
+      "sha256": "cf2fa3da7f160384b63d2ead698532b1d76cd9f789ce4911e2304db85b14e6d5",
+      "year": 2025,
+      "source": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2025"
+    }
+  ],
+  "rights": "US federal government interest-rate facts; attribution retained. No seals, images or external security quotes redistributed.",
+  "availability": "Historical files retrieved in November 2026; no historical vintages. Source usually published by 18:00 America/New_York, may be delayed. Forecast study is retrospective."
+}
