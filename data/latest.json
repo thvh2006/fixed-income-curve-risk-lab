@@ -1,19 +1,19 @@
 {
   "status": "available",
-  "as_of": "2026-11-25",
-  "retrieved_at": "2026-11-27T08:34:11.136503+00:00",
+  "as_of": "2026-11-27",
+  "retrieved_at": "2026-11-28T07:49:26.925610+00:00",
   "source": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/daily-treasury-rates.csv/2026/all?type=daily_treasury_yield_curve&field_tdr_date_value=2026&_format=csv",
-  "source_sha256": "7d6dcae74563a23ba35e68aa4477e532f13b70b84fd498445243db0238691b15",
+  "source_sha256": "a37e0a945f074a2246cd17eec5f70494c563d4696d08d6ad47c38150850c7020",
   "par": [
-    0.0444,
-    0.045599999999999995,
+    0.0446,
     0.0461,
-    0.0464,
-    0.04650000000000001,
+    0.046900000000000004,
+    0.0472,
     0.047400000000000005,
-    0.048499999999999995,
-    0.0528,
-    0.0524
+    0.0482,
+    0.049400000000000006,
+    0.0536,
+    0.0533
   ],
   "tenors": [
     0.5,
